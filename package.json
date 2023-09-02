@@ -1,0 +1,13 @@
+{
+  "name": "vitepress-sidebar-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vitepress": "1.0.0-rc.10"
+  }
+}
